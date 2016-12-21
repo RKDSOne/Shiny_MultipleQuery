@@ -18,7 +18,7 @@ Simple, yet effective Shiny web app for multiple queries. There is no need to in
 for them in database separately as you can provide one simple text file into input and get results in no time.
 
 *0.1*
-This version provides both exact and non-exact match with simple *grep*
+- This version provides both exact and non-exact match with simple *grep*
 
 *next version*
 - exact or non-exact match of name in database
